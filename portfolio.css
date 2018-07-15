@@ -1,0 +1,54 @@
+#sfondo{
+  background-color: #DBDADA;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0px;
+  position: absolute;
+  background-size: contain;
+  font-family: 'Poppins', sans-serif;
+}
+
+.titolo{
+  font-size: 80px;
+  font-family: 'Poppins', sans-serif;
+  position: absolute;
+  text-align: center;
+  padding-top: 50px;
+  margin-left: 648px;
+  color: white;
+}
+
+.tito{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  position: inherit;
+  text-align: center;
+  padding-top: 25px;
+  font-size: 38px;
+}
+
+p{
+  text-align: center;
+  font-size: 17px;
+}
+
+.row{
+  padding-right: 40px;
+  padding-top: 220px;
+  height: 100%;
+  width: 110%;
+  margin-right: 10px;
+  margin-left: 10px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+}
+
+
+.container {
+    width: 90%;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-right: auto;
+    margin-left: auto;
+}
